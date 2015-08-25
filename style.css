@@ -160,7 +160,10 @@ h2 {
 	text-align: justify;
 	flex-direction: column;
 	margin-right: 5%;
+	padding: 2%;
+	border: 1px solid #E6E6E6;
 }
+
 
 .intro2 {
 	display:flex;
@@ -174,6 +177,8 @@ h2 {
 	width:50%;
 	text-align: justify;
 	margin-left: 6%;
+	padding: 2%;
+	border: 1px solid #E6E6E6;
 }
 
 .image_lac {
