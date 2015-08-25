@@ -1,6 +1,7 @@
 <?php
 // INDEX
-     define('TXT_TITREH1', 'Meeting Val\'Eyrieux in the center of the Ardèche');
+     define('TXT_TITREH1', 'Val\'Eyrieux');
+     define('TXT_TITREH1_2', 'Meeting in the heart of the Ardèche');
      define('TXT_TITREH2', 'Relax and Sport in the nature');
 
      define('TXT_P1', 'The center of the Ardèche has a clearly assertive character. Between the South of Valley de L\'Eyrieux and splendid chain of hills and mountains named the Boutieres, we invite you to discover this treasure with a fabulous diversification');
