@@ -24,7 +24,7 @@ body {
 	height: 20%;
 	width: 20%; 
 	float: left;
-	margin-top: -3%;
+/*	margin-top: -3%;*/
 }
 
 
@@ -46,8 +46,8 @@ body {
    flex-direction: row;
    -webkit-justify-content: flex-end;
    justify-content: flex-end;
-   padding-top: 1%; 
-   padding-bottom: 1%;
+/*   padding-top: 1%; 
+   padding-bottom: 1%;*/
 }
 
 .flag {
@@ -71,9 +71,8 @@ body {
     -ms-filter: grayscale(0);
 }
 
-
-header {
-	height: 797px;
+.page-accueil {
+	height: 974px;
 	background-size: 100% 100%;
 	background-image: url(images/page_accueil.jpg);
 	background-repeat: no-repeat;
@@ -111,8 +110,6 @@ h2 {
 	display:flex;
 	width:60%;
 	justify-content:center;
-	margin-top: 2%;
-	margin-bottom: 3%;
 }
 
 .img_accueil {

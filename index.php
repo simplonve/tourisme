@@ -11,7 +11,7 @@
     </head>
     <body> 
         <header>
-        <div class="flexbox flag_box">
+        <div class="flag_box">
             <div class="flexbox rigth flag_width">
                 <form class="flexbox center" method="POST" action="translate/user_choice.php">
                     <label class="m_contenu center" for="fr">
@@ -43,10 +43,10 @@
                 </form>
             </div>
         </div> 
-            <div id="logo" class="left">
+            <div class="barre_navigation center">
                 <a href="index.php"><img class="logo-fox" src="images/logo2-tourisme07.svg"/></a>
-            </div>
-            <div class="m_contenu fond_pictos">     
+            <!-- </div>
+            <div class="m_contenu fond_pictos">  -->    
                 <div class="pictos">
                     <a class="m_contenu" href="randonnees.php"><img class="pictos" src="images/rando.svg"></a>
                     <a class="m_contenu" href="vtt.php"><img class="pictos" src="images/velos.svg"></a>
@@ -56,18 +56,18 @@
                     <a class="m_contenu" href="canoe.php"><img class="pictos" src="images/canoe.svg"></a>
                      <a class="m_contenu" href="parapente.php"><img class="pictos" src="images/parapente.svg"></a>
                 </div>   
-            </div>
-            <div class="page-accueil">
-                <!-- <div class="flexbox m_contenu"> -->
-                    <h1 class="titre"><?php echo TXT_TITREH1;?></h1>
-                    <h1 class="titre"><?php echo TXT_TITREH1_2;?></h1>
-                <!-- </div> -->
-                <!-- <div class="flexbox m_contenu"> -->
-                    <h2 class="phrase_accroche"><?php echo TXT_TITREH2;?></h2>
-                <!-- </div> -->
-            <!-- <img class="img_accueil" src="images/page_accueil.jpg"> -->
-            </div>
+<!--             </div> -->
         </header>
+        <div class="page-accueil">
+            <!-- <div class="flexbox m_contenu"> -->
+                <h1 class="titre"><?php echo TXT_TITREH1;?></h1>
+                <h1 class="titre"><?php echo TXT_TITREH1_2;?></h1>
+            <!-- </div> -->
+            <!-- <div class="flexbox m_contenu"> -->
+                <h2 class="phrase_accroche"><?php echo TXT_TITREH2;?></h2>
+            <!-- </div> -->
+        <!-- <img class="img_accueil" src="images/page_accueil.jpg"> -->
+        </div>
         <div class="intro1 flexbox">
             <div class="carte_ardeche flexbox">
                 <img class="center image_carte" src="images/carte.jpg">
