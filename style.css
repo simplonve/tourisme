@@ -151,6 +151,7 @@ h2 {
 .image_carte {
 	width:64%;
 	height: 64%;
+	border: 1px solid #AAA;
 }
 
 .text1 {
