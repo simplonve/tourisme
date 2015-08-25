@@ -73,7 +73,7 @@
                 <img class="center image_carte" src="images/carte.jpg">
             </div>
             <div class="text1 flexbox">
-                <h4><?php echo TXT_ACTIVITEVERTE;?></h4>
+                <h3><?php echo TXT_ACTIVITEVERTE;?></h3>
                 <p><?php echo TXT_P1;?></p>
                 <p><?php echo TXT_P2;?></p>
                 <p><?php echo TXT_P3;?></p> 
@@ -82,7 +82,7 @@
         </div>  
         <div class="intro2">
             <div class="text2">
-                <h4><?php echo TXT_ACTIVITEEAU;?></h4>
+                <h3><?php echo TXT_ACTIVITEEAU;?></h3>
                 <p><?php echo TXT_P5;?></p>
                 <p><?php echo TXT_P6;?></p>
                 <p><?php echo TXT_P7;?></p>

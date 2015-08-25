@@ -6,8 +6,16 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Conv_ClementePDac-ExtraLight';
+	src: url('fonts/ClementePDac-ExtraLight.eot');
+	src: local('☺'), url('fonts/ClementePDac-ExtraLight.woff') format('woff'), url('fonts/ClementePDac-ExtraLight.ttf') format('truetype'), url('fonts/ClementePDac-ExtraLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 body {
-	font-family: 'Helvetica45';
+	font-family: 'Conv_ClementePDac-ExtraLight';
 	font-size: 1.5em;
 	margin:0;
 }
@@ -89,8 +97,8 @@ h1 {
 h2 {
 	text-align: center;
 	color: #FFF;
-	font-size: 1em;
-	font-family: 'Helvetica45';
+	font-size: 1.3em;
+	font-family: 'Conv_ClementePDac-ExtraLight';
 }
 
 .m_contenu {
