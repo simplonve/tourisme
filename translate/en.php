@@ -21,6 +21,8 @@
 // GENERAL
      define('TXT_BAIGNADE', 'Swimming');
      define('TXT_RANDO', 'Hiking');
+     define('TXT_VTT', 'VTT and road cycling');
+     define('TXT_PARAPENTE', 'paragliding');     
 	define('TXT_TOURISME', 'Ardèche Val\'Eyrieux');
 	define('TXT_HOTEL', 'Hotel');
 	define('TXT_CAMPING', 'Camping');
@@ -29,6 +31,14 @@
 
 // RANDO
      define('TXT_RANDO1', 'Welcome to our trails, paths, lanes equipped and secure');
+
+// PARAPENTE*
+
+     define('TXT_PARAPENTE1', 'Welcome to our furnished takeoff sites maintained ');
+     define('TXT_PARAPENTE11', 'and secure with Tandem opportunities, internships & rental.');
+
+//VTT*
+     define('TXT_VTT1', 'Welcome to our trails, paths, road and other tracks in our realy beautifull environment');     
 
 
 ?>

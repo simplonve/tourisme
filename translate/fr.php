@@ -23,6 +23,8 @@
 // GENERAL
      define('TXT_BAIGNADE', 'Baignade');
      define('TXT_RANDO', 'Rando');
+     define('TXT_VTT', 'VTT et Velo route');
+     define('TXT_PARAPENTE', 'Parapente');
 	define('TXT_TOURISME', 'Ardèche Val\'Eyrieux');
 	define('TXT_HOTEL', 'Hôtel');
 	define('TXT_CAMPING', 'Camping');
@@ -34,6 +36,14 @@
 
      define('TXT_RANDO1', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');
 
+// PARAPENTE*
+
+
+     define('TXT_PARAPENTE1', 'Bienvenue sur nos sites de décollage aménagées entretenus ');
+     define('TXT_PARAPENTE11', 'et sécurisées avec opportunitées de Bi-place, stages & location.');
+
+//VTT*
+     define('TXT_VTT1', 'Bienvenue dans nos sentiers, chemins, routes et autres parcours dans notre si bel environnement');     
 
 
 

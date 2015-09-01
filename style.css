@@ -203,10 +203,10 @@ h2 {
 
 .picto_accueil {
 	display:flex;
-	width:32%;
+	width:60%;
 	justify-content:center;
 	margin-top: 2%;
-	margin-bottom: 3%;
+	margin-bottom: 2%;
 }
 
 /*BAIGNADE*/
@@ -283,6 +283,10 @@ h2 {
 	width: 61%; 
 }
 
+.vtt_presente_liens h2{
+	color:#0A0D0C; 
+
+}
 .liens {
 	width: 36%;
 	float: right;
@@ -296,6 +300,7 @@ li a {
 	font-size: 1.3em;
 }
 
+
 .legende {
 	float: left;
 	width: 100%;
@@ -308,8 +313,15 @@ li a {
 	margin-top: 1%;
 }
 
-footer {
+.footer_velo {
+	/*display:flex;*/
+	display: inline-block;
 	width: 100%;
-	position: absolute;
-	bottom: 0;
+	text-align: center;
+}
+
+/* PARAPENTE */
+
+.parapente_accueil{
+	width: 99%;
 }
