@@ -45,8 +45,4 @@
 //VTT*
      define('TXT_VTT1', 'Bienvenue dans nos sentiers, chemins, routes et autres parcours dans notre si bel environnement');     
 
-
-
 ?>	
-
-
