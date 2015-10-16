@@ -48,13 +48,13 @@
             <!-- </div>
             <div class="m_contenu fond_pictos">  -->    
                 <div class="pictos">
-                    <a class="m_contenu" href="randonnees.php"><img class="pictos" src="images/rando.svg"></a>
-                    <a class="m_contenu" href="vtt.php"><img class="pictos" src="images/velos.svg"></a>
-                    <a class="m_contenu" href="baignade.php"><img class="pictos" src="images/baignade.svg"></a>
-                    <a class="m_contenu" href="escalade.php"><img class="pictos" src="images/escalade.svg"></a>
-                    <a class="m_contenu" href="equestre.php"><img class="pictos" src="images/equestre.svg"></a>
-                    <a class="m_contenu" href="canoe.php"><img class="pictos" src="images/canoe.svg"></a>
-                     <a class="m_contenu" href="parapente.php"><img class="pictos" src="images/parapente.svg"></a>
+                    <a class="m_contenu" href="views/randonnees.php"><img class="pictos" src="images/rando.svg"></a>
+                    <a class="m_contenu" href="views/vtt.php"><img class="pictos" src="images/velos.svg"></a>
+                    <a class="m_contenu" href="views/baignade.php"><img class="pictos" src="images/baignade.svg"></a>
+                    <a class="m_contenu" href="views/escalade.php"><img class="pictos" src="images/escalade.svg"></a>
+                    <a class="m_contenu" href="views/equestre.php"><img class="pictos" src="images/equestre.svg"></a>
+                    <a class="m_contenu" href="views/canoe.php"><img class="pictos" src="images/canoe.svg"></a>
+                     <a class="m_contenu" href="views/parapente.php"><img class="pictos" src="images/parapente.svg"></a>
                 </div>   
 <!--             </div> -->
         </header>

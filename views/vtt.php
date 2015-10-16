@@ -1,31 +1,31 @@
 
 <?php
 	session_start();
-    require('translate/language.php');
+    require('../translate/language.php');
 ?>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="../css/style.css" />
         <title><?php echo TXT_TOURISME;?></title>
     </head>
 <body>
-		<header>
-			<!-- <div class="m_contenu"> -->
-				
-				<div class="picto_accueil">
-					<a href="index.php"><img class="picto_accueil" src="images/accueil.svg"></a>
-				</div>
-			<div class="entete_vtt"><?php echo TXT_VTT1;?></div>
-			<!-- </div> -->
-			<h2 class="entete_vtt">Des circuits VTT balisés et balades en famille !</h2>
-			<img class="img_accueil" src="images/page_accueil_vtt.jpg">
+		<header>	
+			<?php
+            	include('layout/header.php');
+            	include('layout/nav.php');
+        	?>
+			<div class="page_accueil_vtt">
+				<h1><?php echo TXT_VTT1;?></h1>
+				<h2>Des circuits VTT balisés et balades en famille !</h2>
+			</div>
 		</header>
-		<h2 class="entete_vtt">Nos Liens pour vos sorties Cyclistes</h2>
-		<h2 class="entete_vtt">en Val'Eyrieux</h2>
-		
-		<img class= "vtt_accueil" src="images/vtt2.jpg">
+		<div class="entete_vtt">
+			<h2>Nos Liens pour vos sorties Cyclistes</h2>
+			<h2>en Val'Eyrieux</h2>
+		</div>
+		<img class= "vtt_accueil" src="../images/vtt2.jpg">
 		<div class="liens">
 			<ul>
 				<li><a href="http://www.eyrieuxsport.fr" target= "blank"  title="Eyrieux Sport">Eyrieux Sport</a></li>
@@ -44,14 +44,14 @@
 			<h2> Balades sur la <a href="http://www.dolce-via.com" target= "blank"  >Dolce Via</a> en rosalies</h2>
 		</div>
 		<div>
-			<img class="velo_famille" src="images/velo_famille.jpeg">
+			<img class="velo_famille" src="../images/velo_famille.jpeg">
 
 		</div>
  
 		<footer>
 			<div class="loger_voir">
-				<a href="hebergements" alt="hebergements"><img class="lit" src="images/lit.png"></a>
-				<a href="patrimoine" alt="patrimoine"><img class="oeil" src="images/oeil.jpg"></a>
+				<a href="hebergements" alt="hebergements"><img class="lit" src="../images/lit.png"></a>
+				<a href="patrimoine" alt="patrimoine"><img class="oeil" src="../images/oeil.jpg"></a>
 			</div>
 		</footer>
  	</body>
