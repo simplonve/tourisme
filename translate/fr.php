@@ -41,7 +41,9 @@
 
      define('TXT_PARAPENTE1', 'Bienvenue sur nos sites de décollage aménagées entretenus ');
      define('TXT_PARAPENTE11', 'et sécurisées avec opportunitées de Bi-place, stages & location.');
-
+     define('TXT_PARAPENTE2', 'Tous les Amoureux de la nature et de libertées');
+     define('TXT_PARAPENTE21', 'auront droit à un magnifique spéctacle');
+     define('TXT_PARAPENTE3', 'nos nombreux liens et associations de pratiquants passionnées');
 //VTT*
      define('TXT_VTT1', 'Bienvenue dans nos sentiers, chemins, routes et autres parcours dans notre si bel environnement');     
 

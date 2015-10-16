@@ -328,3 +328,9 @@ footer {
 
 /*PARAPENTE*/
 
+.entete_parapente{
+	text-align: center;
+	color: #000;
+	font-size: 1.7em;
+	font-family: 'Conv_ClementePDac-ExtraLight';	
+}
