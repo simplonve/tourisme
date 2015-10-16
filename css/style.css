@@ -287,6 +287,10 @@ h2 {
 }
 
 .entete_vtt{
+	height: 974px;
+	background-size: 100% 100%;
+	background-image: url(../images/page_accueil_vtt.jpg);
+	background-repeat: no-repeat;
 	text-align: center;
 	color: #000;
 	font-size: 1.7em;

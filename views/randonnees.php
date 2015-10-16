@@ -1,27 +1,23 @@
 <?php
 	session_start();
-    require('translate/language.php');
+    require('../translate/language.php');
 ?>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="../css/style.css" />
         <title><?php echo TXT_TOURISME;?></title>
     </head>
     <body>
-        <header>
-        <div class="m_contenu">
-            <a class="m_contenu" href="index.php"><img class="picto_accueil" src="images/accueil.svg"></a>
-       </div>
-        <h2 class="titre_rando">
-             <?php echo TXT_RANDO1;?>  
-        </h2>   
-        </header>
-        <img class="img_rando" src="images/rando_accueil.jpg">
+        <?php
+            include('layout/header.php');
+            include('layout/nav.php');
+        ?>
+        <img class="img_rando" src="../images/rando_accueil.jpg">
         <div class="bloc_rando">
             <div class="photo_rando">
-                <img class="panneau" src="images/panneau.jpg">
+                <img class="panneau" src="../images/panneau.jpg">
                 <p>Quelques exemples de randonnées sur Saint-Agrève:</p>
                 <ul>
                     <li><p>Sentier de découverte de la forêt du Pontet</p>
@@ -43,8 +39,8 @@
             </div>
         </div>
         <div class="loger_voir">
-            <a href="hebergement.php">Se loger<img class="lit" src="images/lit.png"></a>
-            <a href="patrimoine"> A visiter<img class="oeil" src="images/oeil.jpg"></a>
+            <a href="hebergement.php">Se loger<img class="lit" src="../images/lit.png"></a>
+            <a href="patrimoine"> A visiter<img class="oeil" src="../images/oeil.jpg"></a>
         </div>
 	</body>
 </html>
