@@ -112,7 +112,9 @@ h2 {
 
 .pictos {
 	display:flex;
-	width:60%;
+	width:70px;
+	height: 70px;
+	margin: auto;
 	justify-content:center;
 }
 
@@ -213,6 +215,22 @@ h2 {
 }
 
 /*BAIGNADE*/
+
+.page_accueil_baignade {
+	height: 974px;
+	margin: auto;
+	background-size: 100% 100%;
+	background-image: url(../images/baignade.jpg);
+	background-repeat: no-repeat;
+}
+
+.entete_baignade {
+	text-align: center;
+	color: #FFF;
+	font-size: 1.7em;
+	font-family: 'Conv_ClementePDac-ExtraLight';	
+}
+
 .parent {
 	display:flex;
 	flex-direction:row;
@@ -281,16 +299,21 @@ h2 {
 
 /*vtt*/
 
+.page_accueil_vtt {
+	height: 545px;
+	width: 720px;
+	margin: auto;
+	background-size: 100% 100%;
+	background-image: url(../images/page_accueil_vtt.jpg);
+	background-repeat: no-repeat;
+}
+
 .vtt_accueil {
 	float: left;
 	width: 61%; 
 }
 
 .entete_vtt{
-	height: 974px;
-	background-size: 100% 100%;
-	background-image: url(../images/page_accueil_vtt.jpg);
-	background-repeat: no-repeat;
 	text-align: center;
 	color: #000;
 	font-size: 1.7em;
@@ -331,6 +354,15 @@ footer {
 }
 
 /*PARAPENTE*/
+
+.page_accueil_parapente {
+	height: 500px;
+	width: 500px;
+	margin: auto;
+	background-size: 100% 100%;
+	background-image: url(../images/accueil_parapente.jpg);
+	background-repeat: no-repeat;
+}
 
 .entete_parapente{
 	text-align: center;
