@@ -281,14 +281,21 @@ h2 {
 
 /*vtt*/
 
-.vtt {
+.vtt_accueil {
 	float: left;
 	width: 61%; 
 }
 
+.entete_vtt{
+	text-align: center;
+	color: #000;
+	font-size: 1.7em;
+	font-family: 'Conv_ClementePDac-ExtraLight';	
+}
+
 .liens {
-	border :3px;
-	border-radius: 4px;
+	border :3px solid;
+	border-radius: 10px;
 	width: 36%;
 	float: right;
 	padding-left: 2%;

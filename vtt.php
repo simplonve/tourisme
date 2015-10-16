@@ -17,17 +17,18 @@
 				<div class="picto_accueil">
 					<a href="index.php"><img class="picto_accueil" src="images/accueil.svg"></a>
 				</div>
+			<div class="entete_vtt"><?php echo TXT_VTT1;?></div>
 			<!-- </div> -->
-			<h2>Des circuits VTT balisés et balade en famille !
+			<h2 class="entete_vtt">Des circuits VTT balisés et balades en famille !</h2>
 			<img class="img_accueil" src="images/page_accueil_vtt.jpg">
 		</header>
-		<h2>Nos Liens pour vos sorties Cyclistes</h1>
-		<h2>en Val'Eyrieux</h1>
+		<h2 class="entete_vtt">Nos Liens pour vos sorties Cyclistes</h2>
+		<h2 class="entete_vtt">en Val'Eyrieux</h2>
 		
-		<img class= "vtt" src="images/vtt2.jpg">
+		<img class= "vtt_accueil" src="images/vtt2.jpg">
 		<div class="liens">
 			<ul>
-				<li><a href="http://www.eyrieuxsport.fr" target= "blank"  >Eyrieux Sport</a></li>
+				<li><a href="http://www.eyrieuxsport.fr" target= "blank"  title="Eyrieux Sport">Eyrieux Sport</a></li>
 				<li><a href="http://www.veloclublecheylard.com/" target= "blank"  >Velo club le Cheylard</a></li>
 				<li><a href="http://www.raidvtt-ardeche.com/" target= "blank"  >Raid vtt des monts d'Ardèche</a></li>
 
