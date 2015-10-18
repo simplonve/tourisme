@@ -303,7 +303,7 @@ h2 {
 	height: 545px;
 	width: 720px;
 	margin: auto;
-	background-size: 100% 100%;
+	background-size: 100%;
 	background-image: url(../images/page_accueil_vtt.jpg);
 	background-repeat: no-repeat;
 }
@@ -321,7 +321,7 @@ h2 {
 }
 
 .liens_vtt {
-	border :3px solid;
+	border :3px solid  #E6E6E6;
 	border-radius: 12px;
 	box-shadow: 0 0 65px #cdbe9f inset, 0 0 20px #beae8c inset;
 	/*background-image: linear-gradient(to bottom, #dacdb1 11%, #f0e8d8 56%);*/

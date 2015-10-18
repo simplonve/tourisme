@@ -46,9 +46,13 @@
 			<div class="liens_vtt">
 				<ul class="url_vtt">
 				
-					<li><a href="http://camping-la-teyre.fr/fr/velo/" target= "blank"  title="Location de VTT, VTC, Vélo enfants, à assistance... Location de GPS avec circuits, points de visite et géocaches intégrés">Location vélos camping La Teyre St Martin</a></li>
-					<li></li>
-					<li><a href="http://www.eyrieuxsport.fr/location-velos.html" target= "blank"  title="Location de Vélo & organisation de vos sorties Dolcé Via, & autres diciplines">Location Eyrieux Sport </a></li>
+					<li><a href="http://camping-la-teyre.fr/fr/velo/" target= "blank"  title="Location de VTT, VTC, Vélo enfants, à assistance... Location de GPS avec circuits, points de visite et géocaches intégrés">Location vélos camping La Teyre St Martin de V</a></li>
+					<p></p>
+					<li><a href="http://www.eyrieuxsport.fr/location-velos.html" target= "blank"  title="Location de Vélo & organisation de vos sorties Dolcé Via, & autres diciplines">Location Eyrieux Sport, Les Ollières</a></li>
+					<p></p>
+					<li><a href="http://ardeche-fun-loisirs.e-monsite.com/" target= "blank"  title="Location de QUATTROCYCLES & organisation de sorties sur la Dolcé Via & Accrobungy">Ardeche-fun-loisirs, Les Ollières</a></li>
+					<p></p>
+					<li><a href="http://www.ardeche-guide.com/commerces-et-services/commerces/location-rosalie-677471" target= "blank"  title="Location de QUATTROCYCLES pour sorties sur la Dolcé Via sur le parking de Super U au Cheylard">Location Rosalie St Matin de V</a></li>
 				</ul>
 			</div>
 		</div>
