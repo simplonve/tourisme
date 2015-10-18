@@ -313,38 +313,47 @@ h2 {
 	width: 61%; 
 }
 
-.entete_vtt{
+.entete_vtt >h2{
 	text-align: center;
-	color: #000;
-	font-size: 1.7em;
+	color: black;
+	font-size: 1.3em;
 	font-family: 'Conv_ClementePDac-ExtraLight';	
 }
 
-.liens {
+.liens_vtt {
 	border :3px solid;
-	border-radius: 10px;
+	border-radius: 12px;
+	box-shadow: 0 0 65px #cdbe9f inset, 0 0 20px #beae8c inset;
+	/*background-image: linear-gradient(to bottom, #dacdb1 11%, #f0e8d8 56%);*/
 	width: 36%;
 	float: right;
-	padding-left: 2%;
-	margin-top: 2%;
+	padding-right: 1%;
+	margin-top: 0,2%;
+	font-size: 1.1em;
 }
 
-li a {
+.url_vtt li a {
 	/*text-decoration: none;*/
 	color: black;
-	font-size: 1.3em;
 }
 
-.legende {
+.legende_vtt {
 	float: left;
 	width: 100%;
 	margin-top: 1%;
+	color: black;
+}
+
+.legende_vtt_dolce_via {
+	float: left;
+	width: 100%;
+	margin-top: 1%;
+	color: black;
 }
 
 .velo_famille {
 	width: 61%;
 	float: left;
-	margin-top: 1%;
 }
 
 footer {
@@ -356,7 +365,7 @@ footer {
 /*PARAPENTE*/
 
 .page_accueil_parapente {
-	height: 500px;
+	height: 520px;
 	width: 500px;
 	margin: auto;
 	background-size: 100% 100%;

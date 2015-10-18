@@ -23,25 +23,34 @@
 		</header>
 		<div class="entete_vtt">
 			<h2>Nos Liens pour vos sorties Cyclistes</h2>
-			<h2>en Val'Eyrieux</h2>
+			<h2>VTT & Route en Val'Eyrieux</h2>
 		</div>
 		<img class= "vtt_accueil" src="../images/vtt2.jpg">
-		<div class="liens">
-			<ul>
-				<li><a href="http://www.eyrieuxsport.fr" target= "blank"  title="Eyrieux Sport">Eyrieux Sport</a></li>
-				<li><a href="http://www.veloclublecheylard.com/" target= "blank"  >Velo club le Cheylard</a></li>
-				<li><a href="http://www.raidvtt-ardeche.com/" target= "blank"  >Raid vtt des monts d'Ardèche</a></li>
+		<div class="liens_vtt">
+			<ul class="url_vtt">
+				<li><a href="http://www.raidvtt-ardeche.com/" target= "blank" title="Organisation de Sorties hebdomadaires en val'Eyrieux et alentour & club UFOLEP" >Cyclo Randonneurs des Boutières</a></li>
+				<li><a href="http://www.http://blog.ardechoise.com/parcours/" target= "blank" title="la mythique Ardéchoise dont la majorité des parcours emprunte Val Eyrieux"  >L'Ardechoise & ses parcours</a></li>
+				<li><a href="http://www.veloclublecheylard.com/" target= "blank" title="Club cycliste FFC & ecole de cyclisme Cheylaroise"  >Velo club le Cheylard</a></li>
+				<li><a href="http://www.raidvtt-ardeche.com/" target= "blank" title="Competition & actualitées VTT dans notre vallée et alentour" >Raid vtt des monts d'Ardèche</a></li>
 
-
+ 
 
 				<li><a href="http://www.ardechepleincoeur.com/s-eclater/1744,cyclo-et-vtt.html" target= "blank" >Ardèche plein coeur</a></li>
-				<li><a href="http://www.ardeche-verte.com/fr/faire/balades-et-randonnees/sur-deux-roues/itineraires-vtt/" target= blank >Ardèche verte</a></li>
+				<li><a href="http://www.ardeche-verte.com/fr/faire/balades-et-randonnees/sur-deux-roues/itineraires-vtt/" target= blank title="itineraires-vtt + d'autres infos pour du tourisme vert">Ardèche verte</a></li>
 				<li><a href="http://www.pmpv-ardeche.com/fr/sejours-pmpv-ardeche/les-hautes-routes-d-ardeche/18-4-jours-pour-decouvrir-les-plus-belles-routes-d-ardeche.htm" target= blank >Découvrir les plus belles routes d'Ardèche</a></li>
-				<li><a href="http://www.cyclolavoulte07.fr/circuits/ardeche-plein-coeur/" target= "blank"  >circuits Ardèche plein coeur</a></li>
+				<li><a href="http://www.cyclolavoulte07.fr/circuits/ardeche-plein-coeur/" target= "blank" title="Tracés route pour de belles boucles faisant escale chez nous" >circuits Ardèche plein coeur</a></li>
 			</ul>
 		</div>
-		<div class="legende">
-			<h2> Balades sur la <a href="http://www.dolce-via.com" target= "blank"  >Dolce Via</a> en rosalies</h2>
+		<div >
+			<h2 class="legende_vtt_dolce_via"> Balades sur la <a href="http://www.dolce-via.com" target= "blank"  >Dolce Via</a> en rosalies</h2>
+			<div class="liens_vtt">
+				<ul class="url_vtt">
+				
+					<li><a href="http://camping-la-teyre.fr/fr/velo/" target= "blank"  title="Location de VTT, VTC, Vélo enfants, à assistance... Location de GPS avec circuits, points de visite et géocaches intégrés">Location vélos camping La Teyre St Martin</a></li>
+					<li></li>
+					<li><a href="http://www.eyrieuxsport.fr/location-velos.html" target= "blank"  title="Location de Vélo & organisation de vos sorties Dolcé Via, & autres diciplines">Location Eyrieux Sport </a></li>
+				</ul>
+			</div>
 		</div>
 		<div>
 			<img class="velo_famille" src="../images/velo_famille.jpeg">
