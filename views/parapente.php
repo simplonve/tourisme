@@ -24,5 +24,10 @@
         <h2 class="entete_parapente" ><?php echo TXT_PARAPENTE2;?></h2> <!--Tous les Amoureux de la nature et de libertées-->
         <h2 class="entete_parapente"><?php echo TXT_PARAPENTE21;?></h2> <!--auront droit à un magnifique spéctacle</h2>-->
         <p class="liens_parapente"><?php echo TXT_PARAPENTE3;?><p>
- 	</body>
+ 	    <div>
+             <?php
+                include('layout/footer.php');
+             ?>
+        </div>
+    </body>
  </html>

@@ -1,4 +1,3 @@
-
 <?php
 	session_start();
     require('../translate/language.php');
@@ -10,7 +9,7 @@
         <link rel="stylesheet" href="../css/style.css" />
         <title><?php echo TXT_TOURISME;?></title>
     </head>
-<body>
+	<body>
 		<header>	
 			<?php
             	include('layout/header.php');
@@ -61,8 +60,10 @@
 
 		</div>
  
-		<?php
-            // include('layout/footer.php');
-        ?>
+		<div>
+			 <?php
+	            include('layout/footer.php');
+	         ?>
+        </div>
  	</body>
  </html>

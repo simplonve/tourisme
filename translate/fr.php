@@ -31,6 +31,10 @@
 	define('TXT_CHEZ_HABITANT', 'Chez l\'habitant');
 	define('TXT_GITES', 'Gîtes');
 
+//FOOTER
+     define('TXT_FOOTER_PATRIMOINE', 'A voir');
+     define('TXT_FOOTER_HEBERGEMENT', 'Se Loger');
+
 
 // RANDO*
 

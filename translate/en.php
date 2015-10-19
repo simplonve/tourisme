@@ -29,6 +29,10 @@
 	define('TXT_CHEZ_HABITANT', 'Bed and breakfast');
 	define('TXT_GITES', 'Gites');
 
+//FOOTER
+     define('TXT_FOOTER_PATRIMOINE', 'To visit');
+     define('TXT_FOOTER_HEBERGEMENT', 'Housing');
+
 // RANDO
      define('TXT_RANDO1', 'Welcome to our trails, paths, lanes equipped and secure');
 

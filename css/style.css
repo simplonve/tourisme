@@ -15,9 +15,11 @@
 }
 
 body {
+	position: relative;
 	font-family: 'Conv_ClementePDac-ExtraLight';
 	font-size: 1.5em;
 	margin:0;
+	padding: 0;
 }
 
 .logo-fox {
@@ -214,6 +216,12 @@ h2 {
 	margin: auto;
 }
 
+.footer_general {
+	display:flex;
+	justify-content: space-around;
+	width: 100%;
+}
+
 /*BAIGNADE*/
 
 .page_accueil_baignade {
@@ -294,6 +302,7 @@ h2 {
 .loger_voir {
 	display:flex;
 	justify-content: space-around;
+	position: bottom;
 	margin-top: 200px;
 }
 
@@ -337,13 +346,6 @@ h2 {
 	color: black;
 }
 
-.legende_vtt {
-	float: left;
-	width: 100%;
-	margin-top: 1%;
-	color: black;
-}
-
 .legende_vtt_dolce_via {
 	float: left;
 	width: 100%;
@@ -354,12 +356,6 @@ h2 {
 .velo_famille {
 	width: 61%;
 	float: left;
-}
-
-footer {
-	width: 100%;
-	position: absolute;
-	bottom: 0;
 }
 
 /*PARAPENTE*/

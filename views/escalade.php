@@ -19,5 +19,10 @@
             <h2><?php echo TXT_TITREH2;?></h2>
         </header>
 		<h1>Page escalade en Val'Eyrieux</h1>
+        <div>
+             <?php
+                include('layout/footer.php');
+             ?>
+        </div>
  	</body>
  </html>
