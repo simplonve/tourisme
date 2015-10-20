@@ -106,6 +106,7 @@ h2 {
 	font-size: 1.3em;
 }
 
+/* NAV */
 .m_contenu {
 	display:flex;
 	vertical-align: center;
@@ -118,6 +119,10 @@ h2 {
 	height: 70px;
 	margin: auto;
 	justify-content:center;
+}
+
+.barre_navigation_center{
+	width: 100%; 
 }
 
 .img_accueil {
@@ -234,9 +239,6 @@ h2 {
 
 .entete_baignade {
 	text-align: center;
-	color: #FFF;
-	font-size: 1.7em;
-	font-family: 'Conv_ClementePDac-ExtraLight';	
 }
 
 .parent {
@@ -262,8 +264,15 @@ h2 {
 	width:100%;
 }
 
+.lac_st_martial_baignade{
+	height: 150%;
+	width:100%;
+	float: left;
+	margin-top: 3%;
+}
 .bain{
 	font-size: 1,5em;	
+	margin-left: 10px;
 }
 
 /*RANDO */
@@ -310,7 +319,7 @@ h2 {
 
 .page_accueil_vtt {
 	height: 545px;
-	width: 720px;
+	width: 90%;
 	margin: auto;
 	background-size: 100%;
 	background-image: url(../images/page_accueil_vtt.jpg);
@@ -361,8 +370,8 @@ h2 {
 /*PARAPENTE*/
 
 .page_accueil_parapente {
-	height: 520px;
-	width: 500px;
+	height: 600px;
+	width: 550px;
 	margin: auto;
 	background-size: 100% 100%;
 	background-image: url(../images/accueil_parapente.jpg);
@@ -374,4 +383,38 @@ h2 {
 	color: #000;
 	font-size: 1.7em;
 	font-family: 'Conv_ClementePDac-ExtraLight';	
+}
+
+.webcam_parapente{
+	margin: auto;
+	color: black;
+}
+
+.txt_autres_possibilite_passionnes{
+	width: 70%;
+	color: black;
+}
+
+.autres_possibilite_passionnes{
+	display: inline-block;
+}
+/* CANOE*/
+
+.page_accueil_canoe {
+	height: 960px;
+	width: 90%;
+	display: inline-block;
+	margin-left: 5%;
+	background-size: 110% ;
+	background-image: url(../images/canoe_vallee.jpg);
+	background-repeat: no-repeat;
+}
+
+.brochure_epreuve_canoe{
+	width: 70%;
+	margin-left: 15%;
+}
+
+.entete_evenement_canoe h2{
+	color: #000;
 }

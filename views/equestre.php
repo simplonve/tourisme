@@ -19,5 +19,11 @@
             <h2><?php echo TXT_TITREH2;?></h2>
 		</header>
 		<h1>Page equestre en Val'Eyrieux</h1>
+
+        <div>
+             <?php
+                include('layout/footer.php');
+             ?>
+        </div>
  	</body>
  </html>

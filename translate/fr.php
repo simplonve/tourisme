@@ -36,6 +36,10 @@
      define('TXT_FOOTER_HEBERGEMENT', 'Se Loger');
 
 
+// CANOE*
+     define('TXT_CANOE_ACCUEIL', 'Prenez du plaisir en coeur Ardèche');
+     define('TXT_CANOE_ACCUEIL1', 'en contact directe avec l\'Eyrieux');
+
 // RANDO*
 
      define('TXT_RANDO1', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');

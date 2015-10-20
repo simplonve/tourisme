@@ -1,5 +1,5 @@
 <nav>
-    <div class="barre_navigation center">
+    <div class="barre_navigation_center">
         <a href="../index.php"><img class="logo-fox" src="../images/logo2-tourisme07.svg"/></a> 
         <div class="pictos">
             <a class="m_contenu" href="../index.php"><img class="pictos" src="../images/accueil.svg"></a>
