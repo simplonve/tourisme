@@ -10,6 +10,6 @@
         <title><?php echo TXT_TOURISME;?></title>
     </head>
     <body>
-    	<?php include('controlleur/controlleur_traitement_code_postal.php');?>
+    	<?php include('../controlleur/controlleur_traitement_code_postal.php');?>
 	</body>
 </html>
