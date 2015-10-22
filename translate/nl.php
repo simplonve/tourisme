@@ -27,6 +27,30 @@
      define('TXT_CAMPING', 'Camping');
      define('TXT_CHEZ_HABITANT', 'Bij de bewoner thuis');
      define('TXT_GITES', 'Gîtes');
+
+//FOOTER
+     define('TXT_FOOTER_PATRIMOINE', 'To visit');
+     define('TXT_FOOTER_HEBERGEMENT', 'Housing');
+
+
+// RANDO
+     define('TXT_ACCUEIL_RANDO', 'Welcome to our trails, paths, lanes equipped and secure');
+
+// CANOE*
+     define('TXT_CANOE_ACCUEIL', 'Prenez du plaisir en coeur Ardèche');
+     define('TXT_CANOE_ACCUEIL1', 'en contact directe avec l\'Eyrieux');
+
+// PARAPENTE*
+
+     define('TXT_PARAPENTE1', 'Welcome to our furnished takeoff sites maintained ');
+     define('TXT_PARAPENTE11', 'and secure with Tandem opportunities, internships & rental.');
+     define('TXT_PARAPENTE2', 'Tous les Amoureux de la nature et de libertées');
+     define('TXT_PARAPENTE21', 'auront droit à un magnifique spéctacle');
+     define('TXT_PARAPENTE3', 'nos nombreux liens et associations de pratiquants passionnées');
+
+//VTT*
+     define('TXT_VTT1', 'Welcome to our trails, paths, road and other tracks in our realy beautifull environment');     
+
 ?>   
 
 

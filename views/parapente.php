@@ -28,7 +28,7 @@
         <h2 class="webcam_parapente">Les Webcams des sites aménagés<img src="../images/logo_webcam_tourisme.png" alt="webcam_site vol"></h2>
         <h2 class="txt_autres_possibilite_passionnes">D'autres possibiltés de rencontrer des passionnés de vol </h2>
         <div class="autres_possibilite_passionnes">
-            <a href="http://www.ecole-du-vent.com/"><img src="../images/Logo_ecole du_vent_st_clement.png" align="coordonées & logo ecole du vent" title="coordonées & logo ecole du vent"></a>
+            <a href="http://www.ecole-du-vent.com/"><img src="../images/Logo_ecole du_vent_st_clement.png" alt="coordonées & logo ecole du vent" title="coordonées & logo ecole du vent"></a>
             <img src="../images/Portes_ouvertes echange_parapentistes.png" alt="exemple portes ouvertes avec intervention et rencontre parapentistes" title="exemple portes ouvertes avec intervention et rencontre parapentistes">
         <div>
              <?php

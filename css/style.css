@@ -283,8 +283,15 @@ h2 {
 	font-size: 2.5em;
 }
 
-.img_rando {
-	width:100%;
+.page_accueil_rando{
+	height: 545px;
+	width: 90%;
+	margin-left: 5%;
+	display: inline-block;
+	background-size: 110%;
+	background-image: url(../images/rando_accueil.jpg);
+	background-repeat: no-repeat;
+
 }
 
 .bloc_rando {
@@ -397,6 +404,7 @@ h2 {
 
 .autres_possibilite_passionnes{
 	display: inline-block;
+	height: 75%;
 }
 /* CANOE*/
 
