@@ -22,7 +22,7 @@
 				<img src="images/bain.jpeg" class="img">
 			</div> -->
 			<!-- <div class="enfant2"> -->
-			<img class="lac_st_martial_baignade" src="../images/baignade_lac_st_matial.jpeg"  alt"lac de St Martial">
+			<!-- <img class="lac_st_martial_baignade" src="../images/baignade_lac_st_matial.jpeg"  alt"lac de St Martial"> -->
 				
 				<p class="bain">Le lac sera le lieu idéal en été pour pratiquer la baignade en famille, faire un tour de pédalo, et profiter des jeux aquatiques proposés en été. Départ de randonnée dans le village " chemin du facteur", pêche, aire de pique-nique, aire de jeux.</p>
 			<!-- </div> -->

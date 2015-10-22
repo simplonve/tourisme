@@ -17,7 +17,7 @@
 body {
 	position: relative;
 	font-family: 'Conv_ClementePDac-ExtraLight';
-	font-size: 1.5em;
+	/*font-size: 1.5em;*/
 	margin:0;
 	padding: 0;
 }
@@ -29,10 +29,6 @@ body {
 /*	margin-top: -3%;*/
 }
 
-
-.fond_pictos {
-	margin-top: 5%;
-}
 
 /*.flag_box {
 	display:flex;
@@ -173,12 +169,15 @@ h2 {
 	justify-content:space-around;
 }
 
+.fond_pictos {
+	margin-top: 4%;
+}
 
 .pictos {
 	display:flex;
-	width:70px;
-	height: 70px;
-	margin: auto;
+	width:80%;
+	height: 75%;
+	/*margin: auto;*/
 	justify-content:center;
 }
 
@@ -204,14 +203,6 @@ h2 {
 }
 
 
-.logement {
-	border: solid 1px black;
-}
-
-.image_logement {
-	width: 20%;
-}
-
 .picto_accueil {
 	display:flex;
 	width:32%;
@@ -223,6 +214,14 @@ h2 {
 	display:flex;
 	justify-content: space-around;
 	width: 100%;
+}
+
+.logement {
+	border: solid 1px black;
+}
+
+.image_logement {
+	width: 20%;
 }
 
 /*BAIGNADE*********************/
@@ -384,13 +383,6 @@ h2 {
 	background-repeat: no-repeat;
 }
 
-.entete_parapente{
-	text-align: center;
-	color: #000;
-	font-size: 1.7em;
-	font-family: 'Conv_ClementePDac-ExtraLight';	
-}
-
 .webcam_parapente{
 	margin: auto;
 	color: black;
@@ -402,8 +394,9 @@ h2 {
 }
 
 .autres_possibilite_passionnes{
-	display: inline-block;
-	height: 75%;
+	display: inline-flex;
+
+	height: 350px;
 }
 /* CANOE*/
 
@@ -412,7 +405,7 @@ h2 {
 	width: 90%;
 	display: inline-block;
 	margin-left: 5%;
-	background-size: 110% ;
+	background-size: 110% 100%;
 	background-image: url(../images/canoe_vallee.jpg);
 	background-repeat: no-repeat;
 }
