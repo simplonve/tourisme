@@ -105,24 +105,11 @@ h2 {
 	color: #FFF;
 	font-size: 1.3em;
 }
-
-/* NAV */
-.m_contenu {
-	display:flex;
-	vertical-align: center;
-	justify-content:space-around;
-}
-
-.pictos {
-	display:flex;
-	width:70px;
-	height: 70px;
-	margin: auto;
-	justify-content:center;
-}
-
-.barre_navigation_center{
-	width: 100%; 
+.lac_devesset {
+	width:90%;
+	height:90% ;
+	margin-left: 10%;
+	margin-top: 2%;
 }
 
 .img_accueil {
@@ -130,29 +117,6 @@ h2 {
 	width: 100%;
 	margin-top: 2%;
 }
-
-.flexbox {
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-}
-
-.flexbox-inline {
-	display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-	display: inline;
-}
-
-.intro1 {
-	flex-direction:row;
-	width:100%;
-	margin-top:5%;
-}
-
 .carte_ardeche {
 	width:70%;
 	height:90%;
@@ -162,6 +126,12 @@ h2 {
 	width:64%;
 	height: 64%;
 	border: 1px solid #AAA;
+}
+
+.intro1 {
+	flex-direction:row;
+	width:100%;
+	margin-top:5%;
 }
 
 .text1 {
@@ -191,20 +161,48 @@ h2 {
 	border: 1px solid #E6E6E6;
 }
 
-.image_lac {
-	margin-top: 10%;
-}
-
-.lac_devesset {
-	width:90%;
-	height:90% ;
-	margin-left: 10%;
-	margin-top: 2%;
-}
 
 .hidden {
     display: none;
 }
+
+/* NAV */
+.m_contenu {
+	display:flex;
+	vertical-align: center;
+	justify-content:space-around;
+}
+
+
+.pictos {
+	display:flex;
+	width:70px;
+	height: 70px;
+	margin: auto;
+	justify-content:center;
+}
+
+.barre_navigation_center{
+	width: 100%; 
+}
+
+
+.flexbox {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flexbox-inline {
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+	display: inline;
+}
+
 
 .logement {
 	border: solid 1px black;
@@ -220,14 +218,14 @@ h2 {
 	justify-content:center;
 	margin: auto;
 }
-
+/*FOOTER  ********************/
 .footer_general {
 	display:flex;
 	justify-content: space-around;
 	width: 100%;
 }
 
-/*BAIGNADE*/
+/*BAIGNADE*********************/
 
 .page_accueil_baignade {
 	height: 974px;
@@ -257,25 +255,28 @@ h2 {
 	width:60%;
 	height:100%;
 	margin:auto;
-	font-size: 1,5em;
+	font-size: 1,3em;
 }
 
 .img_lac {
 	width:100%;
+	margin-top: 10%;
 }
 
 .lac_st_martial_baignade{
-	height: 150%;
-	width:100%;
+	height: 110%;
+	width:85%;
 	float: left;
 	margin-top: 3%;
 }
+
 .bain{
 	font-size: 1,5em;	
-	margin-left: 10px;
+	margin-left: 15px;
+	margin-top: 3%;
 }
 
-/*RANDO */
+/*RANDO ***************************/
 
 
 .titre_rando {
@@ -349,7 +350,6 @@ h2 {
 	border :3px solid  #E6E6E6;
 	border-radius: 12px;
 	box-shadow: 0 0 65px #cdbe9f inset, 0 0 20px #beae8c inset;
-	/*background-image: linear-gradient(to bottom, #dacdb1 11%, #f0e8d8 56%);*/
 	width: 36%;
 	float: right;
 	padding-right: 1%;
@@ -358,7 +358,6 @@ h2 {
 }
 
 .url_vtt li a {
-	/*text-decoration: none;*/
 	color: black;
 }
 
