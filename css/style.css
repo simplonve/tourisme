@@ -221,7 +221,17 @@ h2 {
 }
 
 .image_logement {
-	width: 20%;
+	width: 15%;
+}
+
+.lit{
+	border: solid 2px lightgrey;
+	width: 38%;
+}
+
+.oeil{
+	border: solid 2px lightgrey;
+	width: 38%;
 }
 
 /*BAIGNADE*********************/
