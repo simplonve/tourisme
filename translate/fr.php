@@ -35,14 +35,13 @@
      define('TXT_FOOTER_PATRIMOINE', 'A voir');
      define('TXT_FOOTER_HEBERGEMENT', 'Se Loger');
 
+// RANDO*
+
+     define('TXT_ACCUEIL_RANDO', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');
 
 // CANOE*
      define('TXT_CANOE_ACCUEIL', 'Prenez du plaisir en coeur Ardèche');
      define('TXT_CANOE_ACCUEIL1', 'en contact directe avec l\'Eyrieux');
-
-// RANDO*
-
-     define('TXT_RANDO1', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');
 
 // PARAPENTE*
 

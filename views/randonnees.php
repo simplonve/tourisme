@@ -10,11 +10,17 @@
         <title><?php echo TXT_TOURISME;?></title>
     </head>
     <body>
-        <?php
-            include('layout/header.php');
-            include('layout/nav.php');
-        ?>
-        <img class="img_rando" src="../images/rando_accueil.jpg">
+        <header>
+            <?php
+                include('layout/header.php');
+                include('layout/nav.php');
+            ?>
+            <div class="page_accueil_rando">
+                <h1><?php echo TXT_ACCUEIL_RANDO;?></h1>
+            </div>
+
+        </header>
+        <!-- <img class="img_accueil_rando" src="../images/rando_accueil.jpg"> -->
         <div class="bloc_rando">
             <div class="photo_rando">
                 <img class="panneau" src="../images/panneau.jpg">
@@ -38,9 +44,8 @@
                 <p> Bref il y en a pour tous les goûts!</p>     
             </div>
         </div>
-        <div class="loger_voir">
-            <a href="hebergement.php">Se loger<img class="lit" src="../images/lit.png"></a>
-            <a href="patrimoine"> A visiter<img class="oeil" src="../images/oeil.jpg"></a>
-        </div>
-	</body>
+        <?php
+                include('layout/footer.php');
+        ?>
+    </body>
 </html>

@@ -28,12 +28,29 @@
      define('TXT_CHEZ_HABITANT', 'Chez l\'habitant');
      define('TXT_GITES', 'Gîtes');
 
+//FOOTER
+     define('TXT_FOOTER_PATRIMOINE', 'A voir');
+     define('TXT_FOOTER_HEBERGEMENT', 'Se Loger');
+
+
+// CANOE*
+     define('TXT_CANOE_ACCUEIL', 'Prenez du plaisir en coeur Ardèche');
+     define('TXT_CANOE_ACCUEIL1', 'en contact directe avec l\'Eyrieux');
 
 // RANDO*
 
-     define('TXT_RANDO1', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');
+     define('TXT_ACCUEIL_RANDO', 'Bienvenue dans nos sentiers, chemins, voies aménagées et sécurisées.');
 
 
+// PARAPENTE*
 
+
+     define('TXT_PARAPENTE1', 'Bienvenue sur nos sites de décollage aménagées entretenus ');
+     define('TXT_PARAPENTE11', 'et sécurisées avec opportunitées de Bi-place, stages & location.');
+     define('TXT_PARAPENTE2', 'Tous les Amoureux de la nature et de libertées');
+     define('TXT_PARAPENTE21', 'auront droit à un magnifique spéctacle');
+     define('TXT_PARAPENTE3', 'nos nombreux liens et associations de pratiquants passionnées');
+//VTT*
+     define('TXT_VTT1', 'Bienvenue dans nos sentiers, chemins, routes et autres parcours dans notre si bel environnement');     
 
 ?>   

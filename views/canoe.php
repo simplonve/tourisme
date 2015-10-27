@@ -19,13 +19,14 @@
                 <h1><?php echo TXT_CANOE_ACCUEIL;?></h1>
                 <h1><?php echo TXT_CANOE_ACCUEIL1;?></h1>
             </div>
-            <div class="entete_evenement_canoe">
+        </header>
+
+		<div class="entete_evenement_canoe">
                 <h2>Evenement Championnat de France 2015 </h2>
                 <h2>sur l'Eyrieux</h2>
-            </div>
+        </div>
             <img class="brochure_epreuve_canoe" src="../images/canoe_championnat_france2015_1.jpg" alt="canoe 2015 st Sauveur de Montagut">
-        </header>
-		<h1>Page canoe en Val'Eyrieux</h1>
+       <!-- <h1>Page canoe en Val'Eyrieux</h1> -->
         <div>
              <?php
                 include('layout/footer.php');
