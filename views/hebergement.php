@@ -15,7 +15,5 @@
             include('layout/nav.php');
             include('formulaire_criteres.php');
         ?>
-    	<?php include('../controlleur/controlleur_traitement_code_postal.php');?>
-
 	</body>
 </html>

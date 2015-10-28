@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>test_requete</title>
-</head>
-<body>
-<div>
-	<?php
+	<head>
+		<title>test_requete</title>
+	</head>
+	<body>
+		<div>
+			<?php
 
-	include ('requete_tets.php');
-	
-	?>
+			include ('requetes/requete_tets.php');
+			
+			?>
 
-</div>
-<p>test </p>
-</body>
+		</div>
+		<p>test_home </p>
+	</body>
 </html>
